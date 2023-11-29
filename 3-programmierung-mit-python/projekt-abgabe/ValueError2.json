@@ -1,0 +1,18 @@
+{
+  "title": "Die 5 groessten kreisfreien Staedte des Rhein-Main-Gebiets (JSON)",
+  "data":
+  [
+    {
+      "KeineStadtSchluessel": "Darmstadt",
+      "KeinJahrSchluessel": "28,1",
+      "KeinAnderesJahrSchluessel": "29,2",
+      "NochEinJahrSchluessel": "25,5"
+    },
+    {
+      "KeineStadtSchluessel": "Frankfurt am Main",
+      "KeinJahrSchluessel": "48,8",
+      "KeinAnderesJahrSchluessel": "47,4",
+      "NochEinJahrSchluessel": "46,3"
+    }
+  ]
+}
